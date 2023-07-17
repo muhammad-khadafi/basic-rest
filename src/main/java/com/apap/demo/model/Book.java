@@ -1,5 +1,8 @@
 package com.apap.demo.model;
 
+/**
+ * @author muhammad.khadafi
+ */
 public class Book {
 
     private String kodeBuku;

@@ -1,5 +1,9 @@
 package com.apap.demo.service;
 
+/**
+ * @author muhammad.khadafi
+ */
+
 public class IMathService {
 
     /* Returns an integer approximation to the square root of x.*/
